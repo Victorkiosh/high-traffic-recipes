@@ -1,7 +1,7 @@
 
 # Predicting High-Traffic Recipes
 
-This project focuses on predicting which recipes will drive high user traffic on a recipe website. Using machine learning and feature analysis, we built a classification model that supports better decision-making for homepage recipe selection—helping increase site engagement and drive subscriptions.
+This project focuses on predicting which recipes will drive high user traffic on a recipe website. Using machine learning and feature analysis, I built a classification model that supports better decision-making for homepage recipe selection, helping increase site engagement and drive subscriptions.
 
 ---
 
